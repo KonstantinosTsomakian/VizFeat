@@ -6,3 +6,6 @@
 <p align="center">
   <img src="./figures/vizfeat_example.png" width="600">
 </p>
+
+For the example run load the multichannel tensor and the bed file found in the example_data directory. The gtf file can be found for download in:
+[https://ftp.ensembl.org/pub/release-112/gtf/homo_sapiens/Homo_sapiens.GRCh38.112.chr.gtf.gz](https://ftp.ensembl.org/pub/release-112/gtf/homo_sapiens/Homo_sapiens.GRCh38.112.chr.gtf.gz)
