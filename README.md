@@ -4,5 +4,5 @@
 * Visualize genomic features given in bed format on top of given transcripts.
 
 <p align="center">
-  <img src="/home/ktsomakian/VizFeat/figures/vizfeat_example.png" width="600">
+  <img src="./figures/vizfeat_example.png" width="600">
 </p>
